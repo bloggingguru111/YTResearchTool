@@ -16,13 +16,11 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Affair Relationship Stories", "Reddit Update", "Reddit Relationship Advice", "Reddit Relationship", 
-"Reddit Cheating", "AITA Update", "Open Marriage", "Open Relationship", "X BF Caught", 
-"Stories Cheat", "X GF Reddit", "AskReddit Surviving Infidelity", "GurlCan Reddit", 
-"Cheating Story Actually Happened", "Cheating Story Real", "True Cheating Story", 
-"Reddit Cheating Story", "R/Surviving Infidelity", "Surviving Infidelity", 
-"Reddit Marriage", "Wife Cheated I Can't Forgive", "Reddit AP", "Exposed Wife", 
-"Cheat Exposed"
+ "Dog Rescue", "Puppy Rescue", "Animal Rescue", "Stray Dog Rescue", "Shelter Dog", "Rescue Dog", "Forever Home", "Adopt Don't Shop", "Dog Transformation", "Rescue Dog Story", "Stray Dog Transformation", "Before and After Dog Rescue", 
+ "From Street to Spoiled", "Second Chance Dog", "My Rescue Story", "Shelter Dog Gets Adopted", "Rescue Dog's First Day Home", "A New Life", "Abandoned Dog Rescue", "Neglected Dog Rescue", "Abused Dog Rescue", "Matted Dog Rescue", "Injured Stray Dog", 
+ "Terrified Rescue Dog", "Scared Dog Learns to Trust", "Sick Puppy Rescue", "Puppy Mill Rescue", "Dog Saved from Chain", 
+ "Heartwarming Dog Rescue", "Emotional Dog Rescue", "Amazing Dog Transformation", "Incredible Dog Rescue", "Miracle Dog Rescue"
+ 
 ]
 
 # Fetch Data Button
