@@ -16,8 +16,8 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "motivation, affirmations, #motivation, #affirmations, positive affirmations, daily affirmations, morning motivation, motivational speech, #mindset, success mindset, #positivevibes, law of attraction, 
- #lawofattraction, manifestation, #success, inspirational video, self improvement, #selflove, growth mindset, #inspirationalquotes"
+ motivation, affirmations, #motivation, #affirmations, positive affirmations, daily affirmations, morning motivation, motivational speech, #mindset, success mindset, #positivevibes, law of attraction, 
+ #lawofattraction, manifestation, #success, inspirational video, self improvement, #selflove, growth mindset, #inspirationalquotes
  
 ]
 
