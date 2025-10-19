@@ -16,10 +16,8 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Dog Rescue", "Puppy Rescue", "Animal Rescue", "Stray Dog Rescue", "Shelter Dog", "Rescue Dog", "Forever Home", "Adopt Don't Shop", "Dog Transformation", "Rescue Dog Story", "Stray Dog Transformation", "Before and After Dog Rescue", 
- "From Street to Spoiled", "Second Chance Dog", "My Rescue Story", "Shelter Dog Gets Adopted", "Rescue Dog's First Day Home", "A New Life", "Abandoned Dog Rescue", "Neglected Dog Rescue", "Abused Dog Rescue", "Matted Dog Rescue", "Injured Stray Dog", 
- "Terrified Rescue Dog", "Scared Dog Learns to Trust", "Sick Puppy Rescue", "Puppy Mill Rescue", "Dog Saved from Chain", 
- "Heartwarming Dog Rescue", "Emotional Dog Rescue", "Amazing Dog Transformation", "Incredible Dog Rescue", "Miracle Dog Rescue"
+ "motivation, affirmations, #motivation, #affirmations, positive affirmations, daily affirmations, morning motivation, motivational speech, #mindset, success mindset, #positivevibes, law of attraction, 
+ #lawofattraction, manifestation, #success, inspirational video, self improvement, #selflove, growth mindset, #inspirationalquotes"
  
 ]
 
